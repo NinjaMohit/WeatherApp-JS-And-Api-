@@ -31,7 +31,7 @@ Invokes getWeather("Delhi") initially to display weather information for Delhi.
 
 <br>
 <br>
-<h1> Weather Project Images</h1>
+<h1> Weather Project Image</h1>
 <img src="https://github.com/NinjaMohit/WeatherApp-JS-And-Api-/blob/main/WeatherApp/img/img1.png?raw=true"><br>
 <img src="https://github.com/NinjaMohit/WeatherApp-JS-And-Api-/blob/main/WeatherApp/img/img2.png?raw=true"><br>
 <img src="https://github.com/NinjaMohit/WeatherApp-JS-And-Api-/blob/main/WeatherApp/img/img3.png?raw=true"><br>
