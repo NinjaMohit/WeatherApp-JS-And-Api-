@@ -1,4 +1,4 @@
-# WeatherApp-JS-And-Api-
+# WeatherApp-JS-And-Api
 
 <h1>🌦️ Excited to share my Weather App project! 🌈 Built with HTML, Bootstrap, and JavaScript<h1></h1> <br><p>It allows users to check real-time weather details for different cities. The clean interface displays temperature, humidity, wind speed, and more.<br> The application allows users to check the current weather details for a selected city and presents the data in an intuitive and visually appealing manner.</p>
 
